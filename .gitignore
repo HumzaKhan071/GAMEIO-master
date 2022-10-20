@@ -1,0 +1,88 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+Export_Gameio.zip
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/kernel_snapshot.stamp
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/kernel_snapshot.stamp
+*.stamp
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/kernel_snapshot.stamp
+.dart_tool/package_config.json
+.dart_tool/package_config_subset
+.dart_tool/version
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/libraries/Flutter_Plugins.xml
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/.filecache
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/app.dill
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/debug_android_application.stamp
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/flutter_assets.d
+*.d
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/kernel_snapshot.stamp
+.dart_tool/package_config.json
+.dart_tool/package_config_subset
+.dart_tool/version
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/package_config.json
+.dart_tool/package_config_subset
+.dart_tool/version
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/libraries/Flutter_Plugins.xml
+.packages
+*.json
+.flutter-plugins-dependencies
+.flutter-plugins
+.dart_tool/version
+.dart_tool/package_config_subset
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/.filecache
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/app.dill
+*.stamp
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/app.dill
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/debug_android_application.stamp
+.dart_tool/flutter_build/add6a21e923679900a96a7d149d797c5/flutter_assets.d
+*.d
