@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
             create: (_) => AuthenticationService(FirebaseAuth.instance),
           ),
           StreamProvider(
-            create: (context) => context.read<AuthenticationService>().authStateChanges,
+            create: (context) => context.read<AuthenticationService>().authStateChanges, initialData: null,
           )
         ],
         child:MaterialApp(
